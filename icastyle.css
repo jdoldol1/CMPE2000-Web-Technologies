@@ -5,11 +5,16 @@
   font-family: Lobster;
 }
 .bands{
+  background-color: #ddd;
   font-family: Josefin sans-serif;
   border-width: 2px;
   border-style: groove;
   border-radius: 20px;
   padding: 20px;
+}
+.covers img{
+  height: 200px;
+  width: auto;
 }
 .alert{
   display: flex;
@@ -30,4 +35,11 @@
   border-radius: 10px;
   font0font-family: times;
   background-color: #fdbcb4;
+}
+Using the block :
+@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min@media screen and ( min-width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px )width : 800px ) {
+body { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { backgroundbody { background-color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }color: #bbb; }
+#site {#site {#site {#site {#site {#site {#site {
+/* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... *//* Your desktop site styling here... */
+}
 }
