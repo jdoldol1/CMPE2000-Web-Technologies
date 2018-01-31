@@ -1,0 +1,33 @@
+/*This next chunk for ICA03-GRID */
+.header{
+  text-align: center;
+  background-color:tomato;
+  font-family: Lobster;
+}
+.bands{
+  font-family: Josefin sans-serif;
+  border-width: 2px;
+  border-style: groove;
+  border-radius: 20px;
+  padding: 20px;
+}
+.alert{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.schedule{
+  display: flex;
+  align-items: center;
+  font-family: monospace;
+}
+.entities{
+  font-family: Bree serif;
+  background-color: #abbada;
+}
+.footer{
+  text-align: center;
+  border-radius: 10px;
+  font0font-family: times;
+  background-color: #fdbcb4;
+}
